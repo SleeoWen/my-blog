@@ -1,0 +1,21 @@
+menu:
+  首页: https://haiyong.site/ || fas fas fa-home
+  资源合集|| fas fa-tags:
+    免费资源: https://code.haiyong.site/ziyuan/free/ || fas fa-tools
+    网站模板: https://code.haiyong.site/moban/ || fas fa-gamepad
+    游戏源码: https://code.haiyong.site/ziyuan/game/ || fas fa-anchor
+    编程资料: https://code.haiyong.site/program/ || fas fa-tools
+    ppt模板: https://code.haiyong.site/ziyuan/ppt/ || fas fa-gamepad
+    PC软件: https://code.haiyong.site/ziyuan/pc/ || fas fa-anchor
+  导航||fas fa-list:
+    源码资源库: https://code.haiyong.site/ || fas fa-tags
+    学习资料: https://haiyong.site/doc/ || fas fa-folder-open
+    时间线: /archives/ || fas fa-archive
+    标签: /tags/ || fas fa-tags
+  摸鱼||fas fa-fish:
+    游戏: /moyu/ || fas fa-gamepad
+    工具: /tools/ || fas fa-tools
+    动画: /demo/ || fas fa-anchor
+  摸鱼大军: /chat/ || fas fa-place-of-worship
+  友人帐: /link/ || fas fa-link
+  关于我: /about/ || fas fa-heart

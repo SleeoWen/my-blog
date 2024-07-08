@@ -2,7 +2,8 @@
 layout: '[post]'
 title: Vue基础二
 date: 2019-11-01 17:50:02
-tags: Vue
+categories: Vue
+index_img: /images/vue.jpeg
 ---
 ## 循环渲染
 <!-- more -->

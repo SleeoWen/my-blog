@@ -2,7 +2,7 @@
 layout: '[post]'
 title: for循环全家桶
 date: 2020-06-15 17:07:58
-tags: javascript
+categories: javascript
 ---
 抵达战场的 5 方势力分别是`for` , `foreach` , `map` , `for...in` , `for...of`
 

@@ -2,7 +2,8 @@
 layout: '[post]'
 title: 什么场景下使用Render函数，如何配置JSX
 date: 2021-06-08 20:28:50
-tags: Vue
+categories: Vue
+index_img: /images/vue.jpeg
 ---
 
 

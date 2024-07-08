@@ -2,7 +2,8 @@
 layout: '[post]'
 title: vue3学习
 date: 2022-02-22 09:54:24
-tags: Vue
+categories: Vue
+index_img: /images/vue.jpeg
 ---
 >  原文地址 [juejin.cn](https://juejin.cn/post/7057325585705467918)*   Composition Api (最核心)
 

@@ -2,7 +2,7 @@
 layout: '[post]'
 title: js柯里化
 date: 2020-05-01 16:21:12
-tags: javascript
+categories: javascript
 ---
 ### 前言
 

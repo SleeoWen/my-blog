@@ -2,7 +2,7 @@
 layout: '[post]'
 title: flex布局
 date: 2020-09-18 16:21:29
-tags: css
+categories: css
 ---
 
 现在让我们深入了解 Flexbox 的缩放 – 以及如何利用它来构建漂亮的自适应布局。

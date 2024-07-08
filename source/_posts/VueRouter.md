@@ -2,7 +2,8 @@
 layout: '[post]'
 title: VueRouter
 date: 2020-01-01 21:30:12
-tags: Vue
+categories: Vue
+index_img: /images/vue.jpeg
 ---
 ## 路由模式
 - hash

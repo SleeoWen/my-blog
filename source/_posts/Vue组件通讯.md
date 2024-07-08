@@ -2,7 +2,8 @@
 layout: '[post]'
 title: Vue组件通讯
 date: 2019-11-11 17:51:37
-tags: Vue
+categories: Vue
+index_img: /images/vue.jpeg
 ---
 ## prop和$emit
 <!-- more -->

@@ -2,7 +2,7 @@
 layout: '[post]'
 title: Vue组件渲染过程
 date: 2020-03-11 13:58:06
-tags:
+categories:
 ---
 ## 初次渲染过程
 

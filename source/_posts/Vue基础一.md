@@ -2,7 +2,8 @@
 layout: '[post]'
 title: Vue基础一
 date: 2019-10-20 00:03:47
-tags: Vue
+categories: Vue
+index_img: /images/vue.jpeg
 ---
 ## 插值表达式
 <!-- more -->

@@ -2,7 +2,7 @@
 layout: '[post]'
 title: webpack配置
 date: 2020-04-17 18:20:47
-tags: webpack
+categories: webpack
 ---
 ## 多入口配置
 <!-- more -->

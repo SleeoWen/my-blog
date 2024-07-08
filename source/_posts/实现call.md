@@ -2,7 +2,7 @@
 layout: '[post]'
 title: 实现call
 date: 2020-05-21 13:23:36
-tags: javascript
+categories: javascript
 ---
 
 

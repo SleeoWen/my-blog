@@ -2,7 +2,7 @@
 layout: '[post]'
 title: node框架简单对比
 date: 2020-08-10 17:10:30
-tags: node
+categories: node
 ---
 ## 起因
 最近一直想学点什么，想来想去，决定学习下node的实际作为后台应用的使用吧，狠狠心买了个云服务器o(╥﹏╥)o。  

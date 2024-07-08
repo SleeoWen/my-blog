@@ -2,7 +2,7 @@
 layout: '[post]'
 title: DOM事件流
 date: 2019-06-11 18:48:56
-tags: html
+categories: html
 ---
 ## 什么是事件？
 > 事件, 就是文档或浏览器窗口发生的一些特定的交互瞬间. JavaScript 和 HTML 之间的交互是通过事件实现的. 可以使用事件监听器来监听事件, 以便事件发生时执行相应的代码.

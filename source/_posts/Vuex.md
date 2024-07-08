@@ -2,7 +2,8 @@
 layout: '[post]'
 title: Vuex
 date: 2019-12-06 21:29:06
-tags: Vue
+categories: Vue
+index_img: /images/vue.jpeg
 ---
 ## Vuex是什么？
 VueX 是一个专门为 Vue.js 应用设计的状态管理架构，统一管理和维护各个vue组件的可变化状态(你可以理解成 vue 组件里的某些 data )。

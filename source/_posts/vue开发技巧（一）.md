@@ -2,7 +2,8 @@
 layout: '[post]'
 title: vue开发技巧（一）
 date: 2020-07-22 15:29:50
-tags: Vue
+categories: Vue
+index_img: /images/vue.jpeg
 ---
 
 > ### 学会使用`$attrs` 与 `$listeners`，二次包装组件就靠它了

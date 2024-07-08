@@ -2,7 +2,8 @@
 layout: '[post]'
 title: vue生命周期以及nextTick应用
 date: 2019-04-01 10:14:30
-tags: Vue
+categories: Vue
+index_img: /images/vue.jpeg
 ---
 
 ## vue 的生命周期

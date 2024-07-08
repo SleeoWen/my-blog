@@ -2,7 +2,7 @@
 layout: '[post]'
 title: CSRF和XSS
 date: 2019-09-03 15:41:47
-tags: 网络安全
+categories: 网络安全
 ---
 ## CSRF和XSS
 前端安全主要分为两种：

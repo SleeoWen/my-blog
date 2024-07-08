@@ -2,7 +2,7 @@
 layout: '[post]'
 title: 事件循环EventLoop
 date: 2019-10-07 11:27:31
-tags: javascript
+categories: javascript
 ---
 ## 什么是Event Loop
 **event loop是一个执行模型，在不同的地方有不同的实现。浏览器和NodeJS基于不同的技术实现了各自的Event Loop。**

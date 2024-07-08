@@ -2,7 +2,7 @@
 layout: '[post]'
 title: Event事件常见应用
 date: 2019-06-25 17:20:41
-tags: html
+categories: html
 ---
 ## Event 对象
 W3C的说法是：

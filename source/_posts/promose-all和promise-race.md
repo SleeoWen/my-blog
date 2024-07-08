@@ -2,7 +2,7 @@
 layout: '[post]'
 title: promise.all和promise.race
 date: 2019-02-17 09:57:01
-tags: Promise
+categories: Promise
 ---
 ## Promise.all和Promise.race的功能
 ### Promise.all

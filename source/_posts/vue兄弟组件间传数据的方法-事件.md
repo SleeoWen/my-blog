@@ -2,7 +2,8 @@
 layout: '[post]'
 title: vue兄弟组件间传数据的方法-事件
 date: 2020-07-20 19:45:53
-tags: Vue
+categories: Vue
+index_img: /images/vue.jpeg
 ---
 
 

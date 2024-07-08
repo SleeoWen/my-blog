@@ -2,7 +2,7 @@
 layout: '[post]'
 title: js栈
 date: 2019-08-19 11:39:15
-tags: javascript
+categories: javascript
 ---
 ## 什么是堆栈
 栈，又叫堆栈，是和列表类似的一种数据结构，但是却更高效，因为栈内的元素只能通过列表的一端访问，称为栈顶，数据只能在栈顶添加或删除，遵循 先入后出(LIFO，last-in-first-out) 的原则，普遍运用于计算机的方方面面。

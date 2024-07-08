@@ -2,7 +2,7 @@
 layout: '[post]'
 title: webpack动态懒加载
 date: 2020-04-24 18:23:05
-tags: webpack
+categories: webpack
 ---
 
 

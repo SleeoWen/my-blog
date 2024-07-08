@@ -2,7 +2,7 @@
 layout: '[post]'
 title: element源码解析之emitter.js
 date: 2020-06-29 15:31:45
-tags: element
+categories: element
 ---
 打开 emitter.js，发现该 js 是提供方法给其他组件做混入使用的。他对外有 dispatch 和 broadcast 两个接口，从命名和参数等方面，这两个方法应该大致是用来处理一些各层级之间事件的，也就是通信。我们先来看下 dispatch 方法。
 <!-- more -->

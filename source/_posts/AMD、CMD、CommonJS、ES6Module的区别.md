@@ -2,7 +2,7 @@
 layout: '[post]'
 title: AMD、CMD、CommonJS、ES6Module的区别
 date: 2020-05-11 18:18:39
-tags: javascript
+categories: javascript
 ---
 
 

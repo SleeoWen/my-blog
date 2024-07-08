@@ -2,7 +2,7 @@
 layout: '[post]'
 title: 'webpack中module,chunk和bundle的区别是什么'
 date: 2020-04-30 15:29:21
-tags:
+categories:
 ---
 首先我们在 src 目录下写我们的业务代码，引入 index.js、utils.js、common.js 和 index.css 这 4 个文件，目录结构如下：
 <!-- more -->

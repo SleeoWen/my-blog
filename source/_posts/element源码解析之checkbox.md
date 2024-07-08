@@ -2,7 +2,7 @@
 layout: '[post]'
 title: element源码解析之checkbox
 date: 2020-07-01 10:24:56
-tags: element
+categories: element
 ---
 
 

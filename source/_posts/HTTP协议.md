@@ -2,7 +2,7 @@
 layout: '[post]'
 title: HTTP协议
 date: 2019-07-02 18:42:57
-tags: http
+categories: http
 ---
 ## HTTP协议
 ### HTTP协议的主要特点

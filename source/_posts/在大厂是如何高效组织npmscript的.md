@@ -2,7 +2,7 @@
 layout: '[post]'
 title: 在大厂是如何高效组织npmscript的
 date: 2021-02-12 17:24:39
-tags: node
+categories: node
 ---
 >  原文地址 [juejin.cn](https://juejin.cn/post/6945236994247098381?utm_source=gold_browser_extension)
 

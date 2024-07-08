@@ -2,7 +2,7 @@
 layout: '[post]'
 title: call、apply、bind
 date: 2020-05-20 15:36:53
-tags: javascript
+categories: javascript
 ---
 
 

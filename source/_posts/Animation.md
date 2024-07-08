@@ -2,7 +2,7 @@
 layout: '[post]'
 title: Animation
 date: 2020-10-30 19:26:31
-tags: css 
+categories: css 
 ---
 
 引言

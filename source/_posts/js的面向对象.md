@@ -2,7 +2,7 @@
 layout: '[post]'
 title: js的面向对象
 date: 2019-07-25 18:54:57
-tags: javascript
+categories: javascript
 ---
 ## 类和实例
 <!-- more -->

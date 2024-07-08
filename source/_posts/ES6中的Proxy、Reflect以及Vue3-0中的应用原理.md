@@ -2,7 +2,8 @@
 layout: '[post]'
 title: ES6中的Proxy、Reflect以及Vue3.0中的应用原理
 date: 2020-04-02 01:18:35
-tags: Vue
+categories: Vue
+index_img: /images/vue.jpeg
 ---
 
 

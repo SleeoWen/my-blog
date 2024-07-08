@@ -2,7 +2,8 @@
 layout: '[post]'
 title: Vue组件的高级特性
 date: 2019-11-21 17:52:51
-tags: Vue
+categories: Vue
+index_img: /images/vue.jpeg
 ---
 ## 自定义v-model
 #### model.vue

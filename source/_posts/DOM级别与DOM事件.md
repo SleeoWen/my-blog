@@ -2,7 +2,7 @@
 layout: '[post]'
 title: DOM级别与DOM事件
 date: 2019-06-01 10:58:39
-tags: html
+categories: html
 ---
 事件是javascript和HTML交互基础, 任何文档或者浏览器窗口发生的交互, 都要通过绑定事件进行交互;比如鼠标点击事件、敲击键盘事件等。这样的事件行为都是前端DOM事件的组成部分，不同的DOM事件会有不同的触发条件和触发效果。
 <!-- more -->

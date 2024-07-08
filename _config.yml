@@ -41,6 +41,9 @@ external_link:
 filename_case: 0
 render_drafts: false
 post_asset_folder: true
+marked:
+  prependRoot: true
+  postAsset: true
 relative_link: false
 future: true
 syntax_highlighter: highlight.js
@@ -103,15 +106,15 @@ theme: fluid
 deploy:
   type: git
   repo: https://github.com/SleeoWen/sleeowen.github.io #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
-asset_img:
-  enable: true
-  # 图片目录，相对于source目录
-  dir: images
-  # 是否压缩图片
-  compress: true
-  # 压缩质量，0-1之间，默认为0.6
-  quality: 0.6
-  # 是否生成缩略图
-  thumbnail: true
-  # 缩略图大小，默认为120x120
-  thumbnail_size: 120x120
+#asset_img:
+#  enable: true
+#  # 图片目录，相对于source目录
+#  dir: images
+#  # 是否压缩图片
+#  compress: true
+#  # 压缩质量，0-1之间，默认为0.6
+#  quality: 0.6
+#  # 是否生成缩略图
+#  thumbnail: true
+#  # 缩略图大小，默认为120x120
+#  thumbnail_size: 120x120

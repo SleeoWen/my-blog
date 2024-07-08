@@ -2,7 +2,8 @@
 layout: '[post]'
 title: Vue的响应式
 date: 2020-01-23 23:50:02
-tags: Vue
+categories: Vue
+index_img: /images/vue.jpeg
 ---
 ## Object.defineProperty(obj, prop, desc)
 **核心的API**

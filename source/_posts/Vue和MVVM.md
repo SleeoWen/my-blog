@@ -2,7 +2,8 @@
 layout: '[post]'
 title: Vue和MVVM
 date: 2020-01-12 23:48:50
-tags: Vue
+categories: Vue
+index_img: /images/vue.jpeg
 ---
 ## Vue.js
 

@@ -2,7 +2,7 @@
 layout: '[post]'
 title: css盒子模型
 date: 2019-05-01 10:15:02
-tags: css
+categories: css
 ---
 
 ## css 盒子模型
@@ -12,7 +12,7 @@ css 盒子模型包含标准模型和 IE 模型
 <!-- more -->
 
 ### 标准模型
-![biaozhun.jpg](css盒子模型/biaozhun.jpg)
+![biaozhun.jpg](biaozhun.jpg)
 
 #### 盒子的组成
 

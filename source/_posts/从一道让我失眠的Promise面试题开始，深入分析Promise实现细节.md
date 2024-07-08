@@ -2,7 +2,7 @@
 layout: '[post]'
 title: 从一道让我失眠的Promise面试题开始，深入分析Promise实现细节
 date: 2021-03-31 17:39:18
-tags: Promise
+categories: Promise
 ---
 >  原文地址 [juejin.cn](https://juejin.cn/post/6945319439772434469?utm_source=gold_browser_extension)
 

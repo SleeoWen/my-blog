@@ -2,7 +2,7 @@
 layout: '[post]'
 title: 初次使用hexo
 date: 2019-01-14 09:57:01
-tags: hexo
+categories: hexo
 ---
 
 偶然间发现了hexo这个博客搭建工具，于是决定将使用多年的云笔记的内容搬迁至这个博客上，分享我的搬迁经历以及踩过的坑吧~。

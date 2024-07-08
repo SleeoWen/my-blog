@@ -2,7 +2,7 @@
 layout: '[post]'
 title: webp在项目中的应用
 date: 2019-03-22 11:11:26
-tags: html
+categories: html
 ---
 ## 什么是webp？
 WebP格式，谷歌开发的一种旨在加快图片加载速度的图片格式。图片压缩体积大约只有JPEG的2/3，并能节省大量的服务器宽带资源和数据空间。

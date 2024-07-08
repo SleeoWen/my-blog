@@ -2,7 +2,8 @@
 layout: '[post]'
 title: Vue虚拟DOM
 date: 2020-02-12 23:51:22
-tags: Vue
+categories: Vue
+index_img: /images/vue.jpeg
 ---
 ## 虚拟DOM（Virtual DOM）
 - vdom是实现Vue和React的重要基石

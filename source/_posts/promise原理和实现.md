@@ -2,7 +2,7 @@
 layout: '[post]'
 title: Promise原理和实现
 date: 2019-02-05 09:57:01
-tags: Promise
+categories: Promise
 ---
 ### 什么是Promise
 Promise 对象用于表示一个异步操作的最终完成 (或失败), 及其结果值.

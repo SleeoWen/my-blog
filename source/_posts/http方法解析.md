@@ -3,7 +3,7 @@ layout:
   - post
 title: http方法解析
 date: 2022-06-23 11:01:29
-tags:
+categories:
 ---
 ## 什么是HTTP？
 

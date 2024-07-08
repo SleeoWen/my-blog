@@ -2,7 +2,8 @@
 layout: '[post]'
 title: Vue模板编译
 date: 2020-02-28 13:57:05
-tags: Vue
+categories: Vue
+index_img: /images/vue.jpeg
 ---
 ## 模版编译
 

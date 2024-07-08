@@ -7,7 +7,7 @@
     "clean": "hexo clean",
     "deploy": "hexo deploy",
     "server": "hexo server",
-    "newPage": "hexo new [draft] React18-批量更新2",
+    "newPage": "hexo new [post] React18-生命周期",
     "draft": "hexo --draft",
     "update": "hexo clean && hexo generate && hexo deploy"
   },

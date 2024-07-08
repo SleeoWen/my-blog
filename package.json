@@ -7,7 +7,7 @@
     "clean": "hexo clean",
     "deploy": "hexo deploy",
     "server": "hexo server",
-    "newPage": "hexo new [post] React18-生命周期",
+    "newPage": "hexo new [post] LeetCode724",
     "draft": "hexo --draft",
     "update": "hexo clean && hexo generate && hexo deploy"
   },

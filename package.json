@@ -7,7 +7,7 @@
     "clean": "hexo clean",
     "deploy": "hexo deploy",
     "server": "hexo server",
-    "newPage": "hexo new [post] LeetCode724",
+    "newPage": "hexo new [post] TS的编译选项",
     "draft": "hexo --draft",
     "update": "hexo clean && hexo generate && hexo deploy"
   },
